@@ -1,0 +1,1 @@
+# simple_linear_regressor_for_predicting_salary_on_the_basis_of_year_of_experience
