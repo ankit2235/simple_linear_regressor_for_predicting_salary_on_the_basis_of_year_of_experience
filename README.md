@@ -1,3 +1,3 @@
 # simple_linear_regressor_for_predicting_salary_on_the_basis_of_year_of_experience
 
-simple_linear_regressor_for_predicting_salary_on_the_basis_of_year_of_experience
+https://colab.research.google.com/drive/18FNi5dZBE0TCuDuPUAdcWjevs61E9ijH?usp=sharing
